@@ -1,6 +1,0 @@
-name: ArmorUnbreakingFix
-version: '${project.version}'
-main: me.destroy.Main
-api-version: 1.17
-authors: [ OG_Destroy ]
-description: Makes the durability equation on armor the same as on weapons
